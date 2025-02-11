@@ -12,4 +12,4 @@ This project is heavily inspired by GGIR, an R package developed for physical ac
   
 - Migueles, J. H., Rowlands, A. V., Huber, F., Sabia, S., & van Hees, V. T. (2019). GGIR: A Research Community–Driven Open Source R Package for Generating Physical Activity and Sleep Outcomes From Multi-Day Raw Accelerometer Data. Journal for the Measurement of Physical Behaviour, 2(3), 188-196. Retrieved Feb 11, 2025, from https://doi.org/10.1123/jmpb.2018-0063
 
-
+For more details about GGIR, visit the official repository: https://github.com/wadpac/GGIR
