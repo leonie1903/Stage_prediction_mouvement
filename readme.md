@@ -26,7 +26,7 @@ This notebook classifies the segmented windows into functional activities using:
 
 Additional scripts and notebooks are included to test other approaches or visualize intermediate results.
 
-### Methods Summary
+## Methods Summary
 
 ### Segmentation
 - Window-based detection of inactivity using acceleration norms
