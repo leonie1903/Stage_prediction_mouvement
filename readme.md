@@ -9,7 +9,7 @@ To design and evaluate a complete pipeline to:
 - Segment accelerometric signals into relevant movement periods
 - Extract meaningful time-series features (statistical, fractal, and shapelets)
 - Classify functional activities such as eating, dressing, or personal care
-- Adapt to real-world conditions and motor asymmetries found in post-stroke individuals
+
 
 ## Notebooks
 
