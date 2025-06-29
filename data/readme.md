@@ -6,8 +6,8 @@ This folder contains supporting data files used for synchronization and activity
 - `0.csv` and `1.csv`: raw data files used for sensor synchronization (wrist-worn accelerometers).
 
 ## Activity Logs
-- `activityM.csv`: activity log corresponding to the **first week** of recording.
-- `activityM2.csv`: activity log corresponding to the **second week** of recording.
+- `activity_M.csv`: activity log corresponding to the **first week** of recording.
+- `activity_M2.csv`: activity log corresponding to the **second week** of recording.
 
 These CSV files include time intervals and manually reported activity labels (e.g., eating, dressing, personal care).
 
